@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+> Using this Flutter Version /Channel: `Flutter 1.20.0-7.3.pre • channel beta`
+
+```echo
+    flutter channel beta
+    flutter upgrade
+```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
